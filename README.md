@@ -53,6 +53,6 @@ MSDA3 is a configuration management system designed to provide efficient and rel
 -Use HTTPS for all communication
 -Implement fine-grained access control
 -All sensitive data is encrypted and stored
--Implement audit logging to record all key operations
+
 ## 6.  Scalability considerations
 -Use
